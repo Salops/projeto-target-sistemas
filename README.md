@@ -1,16 +1,13 @@
-# projeto_target_sistemas
+# Projeto Target Sistemas
 
-A new Flutter project.
+Projeto para desenvolvido para o processo seletivo da Target Sistemas
 
-## Getting Started
+- Para logar utilize:
+  
+  `Usuário: admin`
+  
+  `Senha: 1234`
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Tela de Login  | Tela Inicial |
+| ------------- | ------------- |
+| ![Screenshot_20231110-113640](https://github.com/Salops/projeto-target-sistemas/assets/104448348/7dc8624c-a6bd-447e-857f-294f925eb845) | ![Screenshot_20231110-113634](https://github.com/Salops/projeto-target-sistemas/assets/104448348/bfb06bfe-5336-461b-928f-699bd8147bc0) |
